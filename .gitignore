@@ -1,0 +1,6 @@
+logs/*
+backup/*
+!logs/.gitkeep
+!backup/.gitkeep
+state.json
+*.log
